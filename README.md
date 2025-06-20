@@ -1,4 +1,4 @@
-# 🌫️ Karnataka Ozone Trend Forecasting – Time Series Analysis (2021–2023)
+# Karnataka Ozone Trend Forecasting – Time Series Analysis (2021–2023)
 
 **Author:** Shreya Mishra, Sathwik Nag, Satya, Madhumitha  
 **Role:** Data Analyst  
@@ -6,19 +6,19 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project analyzes and forecasts **ozone pollution trends** in Karnataka, India, using real-world air quality data. It applies statistical modeling techniques to generate short-term forecasts and identify seasonal patterns, enabling data-driven recommendations for public health and policy action.
 
 ---
 
-## 🧠 Objective
+##  Objective
 
 > To model, forecast, and visualize ozone level trends in Karnataka using time series techniques, and provide insights for environmental planning and pollution mitigation.
 
 ---
 
-## 📁 Dataset Details
+##  Dataset Details
 
 - **Source:** Karnataka State Pollution Control Board (KSPCB)  
 - **Timeframe:** August 2021 – August 2023  
@@ -27,7 +27,7 @@ This project analyzes and forecasts **ozone pollution trends** in Karnataka, Ind
 
 ---
 
-## 🔍 Key Workflows
+##  Key Workflows
 
 ### 1. Data Cleaning
 - Handled missing values
