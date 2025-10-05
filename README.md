@@ -1,4 +1,4 @@
-# Karnataka Ozone Trend Forecasting – Time Series Analysis (2021–2023)
+#Ozone Trend Forecasting – Time Series Analysis (2021–2023)
 
 **Author:** Shreya Mishra, Sathwik Nag, Satya, Madhumitha  
 **Role:** Data Analyst  
